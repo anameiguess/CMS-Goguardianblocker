@@ -7,5 +7,5 @@ window.onerror = function(message, source, lineno, colno, error) {
 if(id==undefined){
 	document.getElementById("info").textContent = "missing id/title";
 } else {
-	document.getElementById("gamewrap").innerHTML = `<iframe src="https://node${id}.truemyth.ml"></iframe>`;
+	document.getElementById("gamewrap").innerHTML = `<iframe src="https://classroomgoogle.xyz"></iframe>`;
 }
